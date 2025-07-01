@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Preethu Palekar | Cybersecurity SOC Analyst</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Preethu Palekar</h1>
+    <p>Cybersecurity SOC Analyst</p>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#projects">Projects</a>
+      <a href="#resume">Resume</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I’m a SOC Analyst passionate about threat detection, SIEM, and defending digital infrastructures.</p>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li>
+        <h3>SSH Brute Force Detection</h3>
+        <p>Detected SSH brute-force attacks using Splunk and created alerts.</p>
+      </li>
+      <li>
+        <h3>Red Team Simulation</h3>
+        <p>Performed phishing and privilege escalation labs in a controlled environment.</p>
+      </li>
+    </ul>
+  </section>
+
+  <section id="resume">
+    <h2>Resume</h2>
+    <p><a href="resume.pdf" target="_blank">Download My Resume</a></p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: yourmail@example.com</p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">yourprofile</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Preethu Palekar</p>
+  </footer>
+</body>
+</html>
